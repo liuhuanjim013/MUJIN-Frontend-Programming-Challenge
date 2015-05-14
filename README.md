@@ -45,4 +45,5 @@ You can take a look at scoring.md for more details.
 
 
 
-Best of luck and feel free to email us with any questions!
+###Good luck!
+Feel free to email us with any questions!
