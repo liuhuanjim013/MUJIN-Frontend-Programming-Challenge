@@ -30,7 +30,7 @@ Component re-usability and coupling | 7 |  |
 Dependency management | 6 |  | 
 Namespace protection and module loader usage | 5 |  | 
 Usage of other development tools and dependencies | 5 |  | 
-Overall usage / understanding of backbone | 8 |  | 
+Overall usage / understanding of backbone/angularjs | 8 |  |
 Overall usage / understanding of threejs | 6 |  | 
 Overall usage / understanding of jquery | 7 |  | 
 Overall usage / understanding of underscore | 5 |  | 
