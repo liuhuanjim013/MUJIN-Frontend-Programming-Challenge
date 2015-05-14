@@ -9,7 +9,7 @@ For this challenge, you'll be using Backbone/AngularJS in conjunction with [thre
 
 - Create a new repository on github and copy this README file in. DO NOT fork this repo and don't put "MUJIN" in the name of the repo.
 - Complete the challenge, making commits along the way. The components and other things we're looking for are outlined below. You can use any additional dependencies / development tools you want (within reason), but at minimum you have to use Backbone/AngularJS and threejs.
-- Deploy your completed application somewhere public on the internet and send us the link when you're done. We recommend [github pages](https://pages.github.com/).
+- Deploy your completed application somewhere public on the internet and send us the link when you're done.
 
 ###Major components of the application:
 
@@ -49,7 +49,7 @@ Besides fulfilling the basic goal of implementing the components above and creat
 - How DRY are the components you built? Could I easily use them in another application if I wanted to treat them like a library?
 - How did you use events to properly decouple things?
 - How did you do dependency management? Even though you can get everything done with just Backbone/AngularJS and threejs, imagine if this app were to grow to use 100 dependencies and I wanted to start changing the versions of everything. Would that be easy or hard to do?
-- How did you deploy the app? Again we strongly recommend [github pages](https://pages.github.com/) for this project.
+- How did you deploy the app?
 - Are your commits easy to read / understand? Are your commit messages short and to the point?
 - Did you use any sort of module loader? Did you protect things from polluting the global namespace?
 - Are there any performance bottlenecks?
