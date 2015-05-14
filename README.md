@@ -1,7 +1,7 @@
 MUJIN Frontend Programming Challenge
 =============
 
-Howdy there candidate! This programming challenge is to help us gauge your frontend software engineering skills during our hiring process. You'll be developing a simple app with Backbone (or AngularJS, or a framework X that can organize resources and work seamlessly with a RESTful backend) from scratch.
+Howdy there candidate! This programming challenge is to help us gauge your frontend software engineering skills during our hiring process. You'll be developing a simple app with Backbone (or AngularJS, or a framework X that can neatly organize resources and work seamlessly with a RESTful backend) from scratch.
 
 For this challenge, you'll be using Backbone/AngularJS/X in conjunction with [threejs](http://threejs.org/) to make a simple 3d object viewer and editor. Users should be able to create / edit / update / delete 3d primitives (like boxes, spheres, etc.) in their browser. It'll be similar in function to the [threejs editor](http://threejs.org/editor/) but far less complicated and built with Backbone/AngularJS/X instead of vanilla javascript.
 
