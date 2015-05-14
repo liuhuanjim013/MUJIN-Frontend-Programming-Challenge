@@ -1,14 +1,14 @@
 MUJIN Frontend Programming Challenge
 =============
 
-Howdy there candidate! This programming challenge is to help us gauge your frontend software engineering skills during our hiring process. You'll be developing a simple Backbone (or AngularJS) app from scratch.
+Howdy there candidate! This programming challenge is to help us gauge your frontend software engineering skills during our hiring process. You'll be developing a simple Backbone (or AngularJS, or a framework X that can organize resources in a RESTful manner) app from scratch.
 
-For this challenge, you'll be using Backbone/AngularJS in conjunction with [threejs](http://threejs.org/) to make a simple 3d object viewer and editor. Users should be able to create / edit / update / delete 3d primitives (like boxes, spheres, etc.) in their browser. It'll be similar in function to the [threejs editor](http://threejs.org/editor/) but far less complicated and built with Backbone/AngularJS instead of vanilla javascript.
+For this challenge, you'll be using Backbone/AngularJS/X in conjunction with [threejs](http://threejs.org/) to make a simple 3d object viewer and editor. Users should be able to create / edit / update / delete 3d primitives (like boxes, spheres, etc.) in their browser. It'll be similar in function to the [threejs editor](http://threejs.org/editor/) but far less complicated and built with Backbone/AngularJS/X instead of vanilla javascript.
 
 ###Instructions:
 
 - Create a new repository on github and copy this README file in. DO NOT fork this repo and don't put "MUJIN" in the name of the repo.
-- Complete the challenge, making commits along the way. The components and other things we're looking for are outlined below. You can use any additional dependencies / development tools you want (within reason), but at minimum you have to use Backbone/AngularJS and threejs.
+- Complete the challenge, making commits along the way. The components and other things we're looking for are outlined below. You can use any additional dependencies / development tools you want (within reason), but at minimum you have to use Backbone/AngularJS/X and threejs.
 - Deploy your completed application somewhere public on the internet and send us the link when you're done.
 
 ###Major components of the application:
@@ -48,7 +48,7 @@ Besides fulfilling the basic goal of implementing the components above and creat
 - If you use AngularJS, do you abuse the template language that incorrectly mixes logic inside the templates?
 - How DRY are the components you built? Could I easily use them in another application if I wanted to treat them like a library?
 - How did you use events to properly decouple things?
-- How did you do dependency management? Even though you can get everything done with just Backbone/AngularJS and threejs, imagine if this app were to grow to use 100 dependencies and I wanted to start changing the versions of everything. Would that be easy or hard to do?
+- How did you do dependency management? Even though you can get everything done with just Backbone/AngularJS/X and threejs, imagine if this app were to grow to use 100 dependencies and I wanted to start changing the versions of everything. Would that be easy or hard to do?
 - How did you deploy the app?
 - Are your commits easy to read / understand? Are your commit messages short and to the point?
 - Did you use any sort of module loader? Did you protect things from polluting the global namespace?
