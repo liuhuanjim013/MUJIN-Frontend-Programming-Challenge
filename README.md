@@ -40,20 +40,9 @@ For this challenge, you'll be using Backbone/AngularJS/X in conjunction with [th
 ###Bonus feature:
 - Allow clicking and dragging of drawables to change their position and orientation
 
-###Other things we're looking for:
+###Scoring:
+You can take a look at scoring.md for more details.
 
-Besides fulfilling the basic goal of implementing the components above and creating a working application, there are a few other things we're looking for:
-- How clean is your code? Are things organized?
-- If you use Backbone, is your app filled with a ton of Backbone boilerplate that could have been abstracted elsewhere?
-- If you use AngularJS, do you abuse the template language that incorrectly mixes logic inside the templates?
-- How DRY are the components you built? Could I easily use them in another application if I wanted to treat them like a library?
-- How did you use events to properly decouple things?
-- How did you do dependency management? Even though you can get everything done with just Backbone/AngularJS/X and threejs, imagine if this app were to grow to use 100 dependencies and I wanted to start changing the versions of everything. Would that be easy or hard to do?
-- How did you deploy the app?
-- Are your commits easy to read / understand? Are your commit messages short and to the point?
-- Did you use any sort of module loader? Did you protect things from polluting the global namespace?
-- Are there any performance bottlenecks?
 
-You can also take a look at scoring.md for more details.
 
 Best of luck and feel free to email us with any questions!
